@@ -1,0 +1,16 @@
+<begin_table>
+table1
+A
+B
+C
+<end_table>
+<begin_table>
+table2
+D
+E
+<end_table>
+<begin_table>
+table3
+F
+G
+<end_table>
